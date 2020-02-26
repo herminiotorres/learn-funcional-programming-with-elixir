@@ -1,0 +1,2 @@
+defmodule Checkout do
+end
