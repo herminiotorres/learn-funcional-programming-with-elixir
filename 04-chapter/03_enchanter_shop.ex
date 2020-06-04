@@ -12,6 +12,10 @@ defmodule EnchanterShop do
 
   def echanter_for_sale([]), do: []
 
+  def echanter_for_sale([item = %{magic: true} | incoming_items]) do
+    [item | echanter_for_sale(incoming_items)]
+  end
+
   def echanter_for_sale([item | incoming_items]) do
     new_item = %{
       title: "#{@echanter_name}'s #{item.title}",
@@ -19,6 +23,6 @@ defmodule EnchanterShop do
       magic: true
     }
 
-    [new_item | echanter_for_sale(ncoming_items)]
+    [new_item | echanter_for_sale(incoming_items)]
   end
 end
