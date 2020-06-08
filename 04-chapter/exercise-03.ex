@@ -16,8 +16,12 @@ defmodule Sort do
   def descending([head]), do: [head]
 
   def descending(list) do
-    ascending(list) |> Enum.reverse()
+    list |> ascending |> reverse
   end
+
+  defp reverse([]), do: []
+  defp reverse([head]), do: [head]
+  defp reverse([head | tail]), do: reverse(tail) ++ [head]
 
   defp merge([], list_b), do: list_b
   defp merge(list_a, []), do: list_a
