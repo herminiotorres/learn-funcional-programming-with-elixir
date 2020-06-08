@@ -1,9 +1,11 @@
 # Learn Functional Programming with Elixir
 
-> Learn Functional Programming with Elixir
-> New Foundations for a New World
-> Ulisses Almeida
-> 2018
+```
+Learn Functional Programming with Elixir
+New Foundations for a New World
+Ulisses Almeida
+2018
+```
 
 - [book](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)
 
