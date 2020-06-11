@@ -12,6 +12,9 @@ Ulisses Almeida
 ## references
 
 - [youtube](https://www.youtube.com/watch?v=4Tpk6J5xwOg&list=PL_HJ3ti1kgHcoPe2xTmwXiWpAh_28oDpe)
+
+2. Chapter
+
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus)
 - [Elixir - Operators](https://hexdocs.pm/elixir/operators.html)
 - [Elixir - Kernel](https://hexdocs.pm/elixir/Kernel.html)
@@ -21,6 +24,9 @@ Ulisses Almeida
 - [Elixir - File](https://hexdocs.pm/elixir/File.html)
 - [Elixir - Kernel#rem/2](https://hexdocs.pm/elixir/Kernel.html#rem/2)
 - [Elixir - Kernel#div/2](https://hexdocs.pm/elixir/Kernel.html#div/2)
+
+3. Chapter
+
 - [Elixir - Regex](https://hexdocs.pm/elixir/Regex.html)
 - [Elixir Getting Started - Binaries, strings, and charlists](https://elixir-lang.org/getting-started/binaries-strings-and-char-lists.html)
 - [Elixir - Date](https://hexdocs.pm/elixir/Date.html)
@@ -30,13 +36,22 @@ Ulisses Almeida
 - [Elixir - Integer](https://hexdocs.pm/elixir/Integer.html)
 - [Elixir - Bitwise](https://hexdocs.pm/elixir/Bitwise.html)
 - [Elixir Getting Started - Macros](https://elixir-lang.org/getting-started/meta/macros.html)
+
+4. Chapter
+
 - [Elixir - Access behaviour](https://hexdocs.pm/elixir/Access.html)
 - [Merge sort](https://en.wikipedia.org/wiki/Merge_sort)
+
+5. Chapter
+
 - [Elixir - Enumerable protocol](https://hexdocs.pm/elixir/Enumerable.html)
 - [Elixir - Kernel.SpecialForms#for/1](https://hexdocs.pm/elixir/Kernel.SpecialForms.html#for/1)
 - [Function currying in Elixir Curry?](http://blog.patrikstorm.com/function-currying-in-elixir)
 - [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number)
 - [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+
+6. Chapter
+
 - [Elixir - Mix](https://hexdocs.pm/mix/Mix.html)
 - [ExUnit - Docs](https://hexdocs.pm/ex_unit/ExUnit.html)
 - [Elixir - Mix.Task behaviour](https://hexdocs.pm/mix/Mix.Task.html)
@@ -44,6 +59,9 @@ Ulisses Almeida
 - [Mix tasks to simplify use of Dialyzer in Elixir projects](https://github.com/jeremyjh/dialyxir)
 - [Semantic Versioning](https://semver.org/)
 - [The package manager for the Erlang ecosystem](https://hex.pm/)
+
+7. Chapter
+
 - [Elixir - Kernel#defexception/1](https://hexdocs.pm/elixir/Kernel.html#defexception/1)
 - [Monads and do-syntax for Elixir](https://github.com/rmies/monad)
 - [A simple Maybe monad for Elixir](https://github.com/knrz/towel)
